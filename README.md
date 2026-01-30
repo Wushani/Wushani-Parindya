@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Wushani Parindya</h1>
 <h3 align="center">A passionate frontend,Backend and Mobile App developer from SriLanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=wushani&label=Profile%20views&color=0e75b6&style=flat" alt="wushani" /> </p>
-
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wushani&label=Profile%20views&color=0e75b6&style=flat" alt="wushani" /> </p>
 
 - 🔭 I’m currently working on **Mobile App**
 
 - 🌱 I’m currently learning **Node.js**
 
+- 👨‍💻 All of my projects are available at [https://github.com/Wushani](https://github.com/Wushani)
+
 - 📫 How to reach me **parindyagamage075@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/wushani-parindya-649291325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/wushani-parindya-649291325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - ⚡ Fun fact **Parindi**
 
